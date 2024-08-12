@@ -23,7 +23,7 @@ Welcome to the Monster Animation Web Design repository! This project features a 
 
     ```bash
     git clone https://github.com/MrTusarRX/monster-animation-web.git
-    cd monster-animation-web-design
+    cd monster-animation-web
     ```
 
 2. **Open the Project:**

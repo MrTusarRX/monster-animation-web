@@ -1,6 +1,9 @@
 # Monster Animation Web Design
 
 Welcome to the Monster Animation Web Design repository! This project features a unique and intricate web design showcasing a complex, animated line drawing of a monster. Created with HTML, and JavaScript, this design provides a mesmerizing visual experience.
+## Layout 
+
+![Image]
 
 ## Features
 
